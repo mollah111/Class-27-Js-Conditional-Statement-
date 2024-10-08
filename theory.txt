@@ -1,0 +1,26 @@
+
+=========Conditional Statement==========
+
+if(condition){
+    //Statement.....
+}
+
+else if(condition){
+    //Statement....
+}
+
+else if (condition){
+    //Statement...
+}
+
+else{
+    //Statement....
+}
+
+
+
+
+Rahim => Bike  => Dinner
+Karim => Car   => Cox's Bazar 
+Rafiq => Cycle => Field
+otherwise => Sleep
